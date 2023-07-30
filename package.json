@@ -1,0 +1,22 @@
+{
+  "name": "akshith_react_learning",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshith1998/Namaste-react.git"
+  },
+  "author": "akshith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshith1998/Namaste-react/issues"
+  },
+  "homepage": "https://github.com/Akshith1998/Namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
